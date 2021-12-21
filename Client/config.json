@@ -1,0 +1,8 @@
+{ 
+    "targetFramework" : "net5.0",
+    "packageName" : "MastercardApi.Client",
+    "packageVersion" : "1.0.0",
+    "sourceFolder" : "",
+    "netCoreProjectFile": true,
+    "optionalAssemblyInfo": false
+} 

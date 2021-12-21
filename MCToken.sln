@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MCToken", "MCToken\MCToken.csproj", "{4D22AE89-71BE-4359-8853-2ABC746B46E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MastercardApi.Client", "MastercardApi.Client\MastercardApi.Client.csproj", "{29CB934B-1A7D-4280-B5F0-E4E13ABC8D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D22AE89-71BE-4359-8853-2ABC746B46E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D22AE89-71BE-4359-8853-2ABC746B46E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D22AE89-71BE-4359-8853-2ABC746B46E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D22AE89-71BE-4359-8853-2ABC746B46E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CB934B-1A7D-4280-B5F0-E4E13ABC8D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CB934B-1A7D-4280-B5F0-E4E13ABC8D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CB934B-1A7D-4280-B5F0-E4E13ABC8D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CB934B-1A7D-4280-B5F0-E4E13ABC8D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C727C830-0C11-4961-B591-4BB8EA54B1DA}
+	EndGlobalSection
+EndGlobal
